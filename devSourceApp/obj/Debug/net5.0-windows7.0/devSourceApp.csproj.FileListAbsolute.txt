@@ -1,0 +1,9 @@
+C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net5.0-windows7.0\devSourceApp.csproj.AssemblyReference.cache
+C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net5.0-windows7.0\ModernMessageBox.resources
+C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net5.0-windows7.0\devSourceApp.Properties.Resources.resources
+C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net5.0-windows7.0\devSourceApp.SourceBuilderForm.resources
+C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net5.0-windows7.0\devSourceApp.csproj.GenerateResource.cache
+C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net5.0-windows7.0\devSourceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net5.0-windows7.0\devSourceApp.AssemblyInfoInputs.cache
+C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net5.0-windows7.0\devSourceApp.AssemblyInfo.cs
+C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net5.0-windows7.0\devSourceApp.csproj.CoreCompileInputs.cache
