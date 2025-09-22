@@ -53,6 +53,8 @@ namespace devSourceApp
                     {
                         // ModernMessageBox.ShowBox("Build Succeed");
                         button6.Enabled = true;
+                        button4.Enabled = true;
+
                     }
                     else { ModernMessageBox.ShowBox("BuildError"); }
                 }
@@ -86,6 +88,8 @@ namespace devSourceApp
                 else
                 {
                     ModernMessageBox.ShowBox("Directory Not Exists");
+                    button4.Enabled = true;
+                    button4.Focus();
                 }
                 
 

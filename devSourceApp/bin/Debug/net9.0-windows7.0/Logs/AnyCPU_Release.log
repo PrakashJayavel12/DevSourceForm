@@ -1,0 +1,22 @@
+Microsoft (R) Build Engine version 4.8.9037.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets(1605,5): warning MSB3267: The primary reference "System.Net.Http", which is a framework assembly, could not be resolved in the currently targeted framework. ".NETFramework,Version=v3.5". To resolve this problem, either remove the reference "System.Net.Http" or retarget your application to a framework version which contains "System.Net.Http". [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+clsGenerate.cs(84,20): warning CS0219: The variable 'str1' is assigned but its value is never used [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+clsGenerate.cs(93,20): warning CS0219: The variable 'str5' is assigned but its value is never used [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+clsGenerate.cs(94,20): warning CS0219: The variable 'str6' is assigned but its value is never used [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+clsGenerate.cs(101,26): warning CS0168: The variable 'tran' is declared but never used [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+clsGenerate.cs(101,32): warning CS0168: The variable 'item' is declared but never used [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+clsGenerate.cs(101,38): warning CS0168: The variable 'pay' is declared but never used [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+clsGenerate.cs(214,40): warning CS0219: The variable 'TokenData' is assigned but its value is never used [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+clsGenerate.cs(282,46): warning CS0219: The variable 'num4' is assigned but its value is never used [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+clsGenerate.cs(283,46): warning CS0219: The variable 'num5' is assigned but its value is never used [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+clsGenerate.cs(1106,34): warning CS0168: The variable 'ex' is declared but never used [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+Encryption.cs(25,52): warning CS0168: The variable 'ex' is declared but never used [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+Encryption.cs(46,52): warning CS0168: The variable 'ex' is declared but never used [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+Encryption.cs(66,52): warning CS0168: The variable 'ex' is declared but never used [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+clsGenerate.cs(55,24): warning CS0649: Field 'DCIA.clsGenerate.line' is never assigned to, and will always have its default value null [D:\PRAKASHJ\ALL_DLL_ORIGINAL\INTEGRA_V5\_DLL_ORIGINAL\API\Lumi_RUH_Web_V5\Lumi_RUH_Web_V5.csproj]
+  Lumi_RUH_Web_V5 -> C:\Users\11102\source\repos\devSourceApp\devSourceApp\bin\Debug\net9.0-windows7.0\builder\DCIA.dll
+
+=== STDERR ===

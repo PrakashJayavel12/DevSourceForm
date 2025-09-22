@@ -112,9 +112,13 @@ namespace devSourceApp
 
                 foreach (string fileName in totalFiles)
                 {
-                    if (fileName.Contains("DCIA") || fileName.Contains("Newton") || fileName.Contains("ADSR"))
+                    string ofileName = Path.GetFileNameWithoutExtension(fileName);
+                    if (ofileName.Contains("DCIA") || ofileName.Contains("Newton") || ofileName.Contains("ADSR"))
                     {
-                        filesToZip.Add(fileName);
+                        if (Path.GetFileName(fileName).Contains("dll"))
+
+                        { filesToZip.Add(fileName); }
+                        //  ModernMessageBox.ShowBox(fileName);
                     }
                 }
 
@@ -138,7 +142,7 @@ namespace devSourceApp
                             SevenZipBase.SetLibraryPath(libPath);
                             //break;
                         }
-
+                           
                         // Setup compressor
                         SevenZipCompressor compressor = new SevenZipCompressor
                         {
