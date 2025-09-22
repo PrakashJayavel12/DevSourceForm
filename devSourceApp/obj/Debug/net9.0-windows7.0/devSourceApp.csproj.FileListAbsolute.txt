@@ -19,3 +19,4 @@ C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net9.0-windows7.
 C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net9.0-windows7.0\devSourceApp.pdb
 C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net9.0-windows7.0\devSourceApp.genruntimeconfig.cache
 C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net9.0-windows7.0\ref\devSourceApp.dll
+C:\Users\11102\source\repos\devSourceApp\devSourceApp\obj\Debug\net9.0-windows7.0\devSourceApp.sourcelink.json

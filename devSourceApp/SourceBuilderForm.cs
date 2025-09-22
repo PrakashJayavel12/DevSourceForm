@@ -74,12 +74,20 @@ namespace devSourceApp
                 string _filePathtoMove = Path.Combine(textBox1.Text, "bin\\Debug\\", FileName, DateTime.Today.ToString("dd-MMM-yyyy"));
 
                 string[] filesToUpload = Directory.GetFiles(_filePathtoMove, "*");
-                string destRoot = comboBox2.Text; ;
-                builderMethods.CopyFoldersFromNearestNamedAncestor(filesToUpload, FileName, destRoot);
-                Clipboard.SetText(Path.Combine("\\\\10.10.13.215\\development\\Tools\\ADSR Tools V5", FileName, DateTime.Today.ToString("dd-MMM-yyyy")));
-                ModernMessageBox.ShowBox("Files Moved to Server and Path Copied");
-                button4.Enabled = true;
-                button4.Focus();
+                string destRoot = comboBox2.Text;
+                if(Directory.Exists(destRoot))
+                {
+                    builderMethods.CopyFoldersFromNearestNamedAncestor(filesToUpload, FileName, destRoot);
+                    Clipboard.SetText(Path.Combine("\\\\10.10.13.215\\development\\Tools\\ADSR Tools V5", FileName, DateTime.Today.ToString("dd-MMM-yyyy")));
+                    ModernMessageBox.ShowBox("Files Moved to Server and Path Copied");
+                    button4.Enabled = true;
+                    button4.Focus();
+                }
+                else
+                {
+                    ModernMessageBox.ShowBox("Directory Not Exists");
+                }
+                
 
             }
         }
